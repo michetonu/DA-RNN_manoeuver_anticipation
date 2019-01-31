@@ -1,2 +1,2 @@
-# DA-RNN_manoeuver_anticipation
-Domain-Adaptive Recurrent Neural Network for driving manoeuver anticipation, built in Keras
+# DA-RNN for Manoeuver Anticipation
+Domain-Adaptive Recurrent Neural Network for driving manoeuver anticipation, built in Keras.
