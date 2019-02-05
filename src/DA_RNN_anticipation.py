@@ -2,9 +2,6 @@
 from math import exp
 
 from keras.callbacks import EarlyStopping
-from keras.models import (
-    Model
-)
 from keras.layers import (
     Input,
     LSTM,
@@ -14,9 +11,12 @@ from keras.layers import (
     GRU,
     Masking
 )
-
 from keras.layers.wrappers import TimeDistributed
-from flip_gradient_tf import GradientReversal
+from keras.models import (
+    Model
+)
+
+from src.flip_gradient_tf import GradientReversal
 
 BIAS_INITIALIZER = 'ones'
 KERNEL_INITIALIZER = 'VarianceScaling'
