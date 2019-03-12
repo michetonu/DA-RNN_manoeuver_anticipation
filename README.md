@@ -5,6 +5,7 @@ Architecture used for the models in the paper "Robust and Subject-Independent Dr
 Volume 115, Pages 162-173. 
 
 Link: https://doi.org/10.1016/j.robot.2019.02.007
+
 ArXiv: https://arxiv.org/abs/1902.09820
 
 
